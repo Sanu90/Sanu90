@@ -2,7 +2,7 @@
 <br>
 <hr>
 <br>
-<table>
+<table align="center">
   <th>
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="center" alt="LinkdeIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
