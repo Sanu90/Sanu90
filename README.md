@@ -1,7 +1,10 @@
 ### Hi there 👋..\
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/_fotofreak_/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
