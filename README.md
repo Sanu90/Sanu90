@@ -10,16 +10,16 @@
     }
   </style>
 <body>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="50" height="50">
+ <a href="https://www.linkedin.com/" target="_blank">
+    <img class="logo" src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="50" height="50">
   </a>
   
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://example.com/instagram_logo.png" alt="Instagram" width="50" height="50">
+    <img class="logo" src="https://example.com/instagram_logo.png" alt="Instagram" width="50" height="50">
   </a>
   
   <a href="https://mail.google.com/" target="_blank">
-    <img src="https://example.com/gmail_logo.png" alt="Gmail" width="50" height="50">
+    <img class="logo" src="https://example.com/gmail_logo.png" alt="Gmail" width="50" height="50">
   </a>
 </body>
 
