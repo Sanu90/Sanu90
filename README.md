@@ -10,6 +10,9 @@
   <img align="left" alt="Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/>
 </a>
 
+<hr>
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/your-profile-url/)
+
 
 <!--
 **Alto-b/Alto-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
