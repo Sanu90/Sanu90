@@ -2,7 +2,7 @@
 <br>
 <hr>
 <br>
-
+<div class="logo" >
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="center" alt="LinkdeIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
@@ -12,7 +12,7 @@
 <a target="_blank" href="mailto:altob282@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/>
 </a>
-
+</div>
 <br>
 <hr>
 
