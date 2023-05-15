@@ -1,14 +1,19 @@
-### Hi there 👋..\
-
-<a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/_fotofreak_/">
-  <img align="left" alt="Instagram" width="22px" src="https://www.pngfind.com/pngs/m/243-2436165_download-instagram-logo-png-format-click-here-to.png" />
-</a>
-<a target="_blank" href="mailto:altob282@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/>
-</a>
+<head>
+  <title>### Hi there 👋.</title>
+</head>
+<body>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://example.com/instagram_logo.png" alt="Instagram" width="50" height="50">
+  </a>
+  
+  <a href="https://mail.google.com/" target="_blank">
+    <img src="https://example.com/gmail_logo.png" alt="Gmail" width="50" height="50">
+  </a>
+</body>
 
 
 <!--
