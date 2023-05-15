@@ -1,6 +1,14 @@
 
 ### Hi there 👋.
-
+<style>
+    .logo {
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .logo:hover {
+      transform: scale(1.2);
+    }
+  </style>
 <body>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="50" height="50">
