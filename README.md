@@ -3,14 +3,14 @@
 <hr>
 <br>
 
-<table align="center" border="1">
+<table align="center" border="0">
   <tr>
     <td>
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="center" alt="LinkdeIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
     </td>
-  <td>>
+  <td>
 <a target="_blank" href="https://www.instagram.com/_fotofreak_/">
   <img align="center" alt="Instagram" width="22px" src="https://www.pngfind.com/pngs/m/243-2436165_download-instagram-logo-png-format-click-here-to.png" />
 </a>
