@@ -1,13 +1,13 @@
 ### Hi there 👋..\
 
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
-  <img align="left" alt="LinkdeIN" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/_fotofreak_/">
   <img align="left" alt="Instagram" width="22px" src="https://www.pngfind.com/pngs/m/243-2436165_download-instagram-logo-png-format-click-here-to.png" />
 </a>
 <a target="_blank" href="mailto:altob282@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg](https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png)" />
+  <img align="left" alt="Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/>
 </a>
 
 
