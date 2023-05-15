@@ -1,4 +1,7 @@
-### Hi there 👋..\
+### Hi there 👋..
+<br>
+<hr>
+<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="left" alt="LinkdeIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
@@ -11,7 +14,7 @@
 </a>
 
 <hr>
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/alto-b-puthethu-b864b6251/)
+
 
 
 
