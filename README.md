@@ -4,7 +4,7 @@
 <br>
 
 <table align="center" border="0">
-  <tr>
+  <tr border="0">
     <td>
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
