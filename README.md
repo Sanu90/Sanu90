@@ -1,6 +1,6 @@
-<head>
-  <title>### Hi there 👋.</title>
-</head>
+
+### Hi there 👋.
+
 <body>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="50" height="50">
