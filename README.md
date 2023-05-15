@@ -11,7 +11,8 @@
 </a>
 
 <hr>
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/your-profile-url/)
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/alto-b-puthethu-b864b6251/)
+
 
 
 <!--
