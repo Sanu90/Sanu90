@@ -2,6 +2,7 @@
 <br>
 <hr>
 <br>
+<div style="align:center">
 <table align="center" border="1">
   <tr>
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
@@ -19,6 +20,7 @@
 </a>
   </tr>
 </table>
+  </div>
 <br>
 <hr>
 
