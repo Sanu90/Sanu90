@@ -2,9 +2,7 @@
 
 
 
-   <br>
-<hr>
-<br>
+   
 
 <h1 align="center"> Languages</h1>
 
@@ -17,7 +15,7 @@
    <img align="center" alt="php" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
    </p>
    
-<br><br>
+
 
 
 <h1 align="center"> Database</h1>
@@ -28,7 +26,7 @@
 
 
 
-<br><br>
+
 
 <h1 align="center"> Connect with me</h1>
 <div class="connect">
@@ -45,8 +43,7 @@
 </a>
    </p>
 </div>
-<br>
-<hr>
+
 
 
 
