@@ -24,6 +24,7 @@
 
 
 <div class="connect">
+   <p align="center">
      <h1> Connect with me</h1>
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
   <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,6 +35,7 @@
 <a target="_blank" href="mailto:altob282@gmail.com">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
 </a>
+   </p>
 </div>
 <br>
 <hr>
