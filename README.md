@@ -22,7 +22,7 @@
 <div class="connect">
      <h1> Connect with me</h1>
 <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
-  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/_fotofreak_/">
   <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
