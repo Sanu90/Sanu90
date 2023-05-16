@@ -16,7 +16,8 @@
    <img align="center" alt="javascript" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img align="center" alt="php" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
    </p>
-
+   
+<br><br>
 
 <h1 align="center"> Database</h1>
 
@@ -24,9 +25,9 @@
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    </p>
 
+[
 
-
-<br><br>
+<br><hr><br>
 
 <h1 align="center"> Connect with me</h1>
 <div class="connect">
