@@ -22,7 +22,7 @@
 
 <br><br>
 
-<h1> Connect with me</h1>
+<h1 align="center"> Connect with me</h1>
 <div class="connect">
    <p align="center">
      
