@@ -30,7 +30,7 @@
     </td>
   <td>
 <a target="_blank" href="https://www.instagram.com/_fotofreak_/">
-  <img align="center" alt="Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
   </td>
   <td>
