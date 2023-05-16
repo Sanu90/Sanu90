@@ -1,9 +1,6 @@
 ### Hi there 👋..
 
-   ![97300632-ed3cd700-1880-11eb-9670-766d86aa6de0](https://github.com/Alto-b/Alto-b/assets/89630614/fcc5c31e-44b8-49ab-9707-8e96f465e34c)
-
-
-
+![1_ck6cRbbe3uaelEG2JPsIMw](https://github.com/Alto-b/Alto-b/assets/89630614/0c1747a1-f39f-4ec1-90dd-cb43d0e90792)
 
 
    <br>
