@@ -1,9 +1,5 @@
 ### Hi there 👋..
-<div class="marquee">  
-   <html>
-<marquee>asxdcfvbgnm</marquee>
-   </html>
-   </div>
+
    
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Alto-b/Alto-b/assets/89630614/0926b1d5-7397-41ef-bc42-64bef1958838)
 
