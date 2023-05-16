@@ -27,7 +27,7 @@
 
 [
 
-<br><hr><br>
+<br><br>
 
 <h1 align="center"> Connect with me</h1>
 <div class="connect">
