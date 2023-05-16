@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-<h1> Languages</h1>
+<h1 align="center"> Languages</h1>
 <div class="techstack" >  
    <p align="center">
    <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
