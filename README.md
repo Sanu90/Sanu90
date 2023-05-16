@@ -1,7 +1,8 @@
 ### Hi there 👋..
 
-   
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Alto-b/Alto-b/assets/89630614/0926b1d5-7397-41ef-bc42-64bef1958838)
+   ![97300632-ed3cd700-1880-11eb-9670-766d86aa6de0](https://github.com/Alto-b/Alto-b/assets/89630614/fcc5c31e-44b8-49ab-9707-8e96f465e34c)
+
+
 
 
 
