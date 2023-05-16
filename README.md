@@ -25,6 +25,7 @@
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<br> 
 <h3 align="center">IDE</h3>
    <p align="center">
    <img align="center" alt="dreamweaver" width="auto" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />
