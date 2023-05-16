@@ -1,6 +1,6 @@
 ### Hi there 👋..
 
-
+<br> 
 <h3 align="center"> Languages</h3>
    <p align="center">
    <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -12,7 +12,7 @@
 </p>
    
    
-
+<br> 
 <h3 align="center"> Database</h3>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -34,7 +34,7 @@
 </p>
 
 
-
+<br> 
 <h3 align="center"> Connect with me</h3>
 <p align="center">
    <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
