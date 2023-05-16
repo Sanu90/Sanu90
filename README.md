@@ -19,6 +19,11 @@
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    </p>
+   
+ <h3 align="center"> Version control</h3>
+   <p align="center">
+   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+   </p>
 
 
 <h3 align="center"> Connect with me</h3>
@@ -32,7 +37,7 @@
   <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:altob282@gmail.com">
-  <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
+  <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
    </p>
 </div>
