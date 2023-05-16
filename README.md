@@ -22,7 +22,7 @@
  
  <h4 align="center"> Version control</h4>
    <p align="center">
-   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 
