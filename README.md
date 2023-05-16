@@ -42,7 +42,7 @@
 </p>
 
 
-<br> 
+
 <h3 align="center">Virtualization</h3>
  <p align="center">
     <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
