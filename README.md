@@ -1,9 +1,8 @@
 ### Hi there 👋..
 
- <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    <img align="right" src="https://profile-counter.glitch.me/suraj-k-s/count.svg">
-    <br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ <img align="right" src="https://profile-counter.glitch.me/suraj-k-s/count.svg">
+ <br>
     
     
 <h4 align="center"> Languages</h4>
@@ -69,7 +68,7 @@
 </p>
 
 
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
