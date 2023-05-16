@@ -34,10 +34,18 @@
     <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
+
 <br> 
 <h3 align="center">Linters</h3>
  <p align="center">
     <img align="center" alt="codemirror" width="auto" src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" />
+</p>
+
+
+<br> 
+<h3 align="center">Virtualization</h3>
+ <p align="center">
+    <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 </p>
 
 
