@@ -1,6 +1,5 @@
 ### Hi there 👋..
-
-![1_ck6cRbbe3uaelEG2JPsIMw](https://github.com/Alto-b/Alto-b/assets/89630614/0c1747a1-f39f-4ec1-90dd-cb43d0e90792)
+<marquee behavior="scroll" direction="left">Your marquee text here</marquee>
 
 
    <br>
