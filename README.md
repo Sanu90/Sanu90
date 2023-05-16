@@ -19,7 +19,7 @@
 
 
 
-
+<div class="connect">
 <table align="center" >
   <tr >
     <td >
@@ -39,7 +39,7 @@
   </td>
   </tr>
 </table>
-
+</div>
 <br>
 <hr>
 
