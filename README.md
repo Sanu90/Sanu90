@@ -1,7 +1,5 @@
 ### Hi there 👋..
-  <picture> <img align="right"
-      src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px>
-  </picture>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <h4 align="center"> Languages</h4>
    <p align="center">
