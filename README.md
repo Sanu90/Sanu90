@@ -20,6 +20,7 @@
 
 
 <div class="connect">
+     <h1> Connect with me</h1>
 <table align="center" >
   <tr >
     <td >
