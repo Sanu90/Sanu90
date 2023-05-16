@@ -13,20 +13,20 @@
    
    
 
-<h3 align="center"> Database</h3>
+<h4 align="center"> Database</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
    
    
  
- <h3 align="center"> Version control</h3>
+ <h4 align="center"> Version control</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 
-<h3 align="center">IDE</h3>
+<h4 align="center">IDE</h4>
    <p align="center">
     <img align="center" alt="dreamweaver" width="auto" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />
     <img align="center" alt="netbeans" width="auto" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
@@ -36,21 +36,21 @@
 
 
  
-<h3 align="center">Linters</h3>
+<h4 align="center">Linters</h4>
  <p align="center">
     <img align="center" alt="codemirror" width="auto" src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" />
 </p>
 
 
 
-<h3 align="center">Virtualization</h3>
+<h4 align="center">Virtualization</h4>
  <p align="center">
     <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 </p>
 
 
 
-<h3 align="center"> Connect with me</h3>
+<h4 align="center"> Connect with me</h4>
 <p align="center">
    <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
