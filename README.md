@@ -1,5 +1,6 @@
 ### Hi there 👋..
 
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Alto-b/Alto-b/assets/89630614/402b9887-6faf-4a74-b147-043fb97c9817)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
