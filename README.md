@@ -3,9 +3,6 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
- <br>
-    
-    
 <h4 align="center"> Languages</h4>
    <p align="center">
    <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
