@@ -21,6 +21,7 @@
 <h4 align="center"> Database</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+     <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
    
    
