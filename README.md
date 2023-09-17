@@ -1,5 +1,5 @@
 ### Hi there 👋..
-<a href="https://alto-b.github.io/PORTFOLIO-2/"><img src="![Screenshot 2023-09-18 011403](https://github.com/Alto-b/Alto-b/assets/89630614/8c77948c-0fbe-4412-9d88-7f44ba2cd50d)"></a>
+<a href="https://alto-b.github.io/PORTFOLIO-2/"><img src="https://drive.google.com/file/d/1NhsUEgOZ2odIanBmfSJ_ndfDDAXIBS68/view?usp=sharing"></a>
 
 
   
