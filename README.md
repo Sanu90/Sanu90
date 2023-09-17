@@ -1,5 +1,5 @@
 ### Hi there 👋..
-<a href="https://alto-b.github.io/PORTFOLIO-2/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sf2mhrbC7rg3GKqlUTlkoPBsWi82JPyu6Q&usqp=CAU" width:100%></a>
+<a href="https://alto-b.github.io/PORTFOLIO-2/"><img align="center" alt="c" width="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapurvsinghgautam.me%2Fblogfiles%2Fwhy_having_an_online_portfolio_is_important.html&psig=AOvVaw3QY7X3pyue_kSLxhNQPlzE&ust=1695066716211000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi3v921soEDFQAAAAAdAAAAABAJ"/></a>
 
 
   
