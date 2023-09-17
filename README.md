@@ -1,8 +1,9 @@
 ### Hi there 👋..
+![Screenshot 2023-09-18 011403](https://github.com/Alto-b/Alto-b/assets/89630614/8c77948c-0fbe-4412-9d88-7f44ba2cd50d)
 
 
   
- <img src=""C:\Users\USER\OneDrive\Documents\Pictures\Screenshot 2023-09-18 011403.png""><br><br>
+<br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
