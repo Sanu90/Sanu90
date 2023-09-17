@@ -1,9 +1,8 @@
 ### Hi there 👋..
-<iframe  frameborder="0" 
-        style=" width: 100%; height: 110%;" src="https://alto-b.github.io/PORTFOLIO_2/">
-      </iframe>
+
 
   
+ <img src=""C:\Users\USER\OneDrive\Documents\Pictures\Screenshot 2023-09-18 011403.png""><br><br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
