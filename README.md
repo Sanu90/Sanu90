@@ -1,6 +1,6 @@
 <p></p>
     <br><br>
-    <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
+    Profile visits<img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
     <br>
 
   <div align="center" >
