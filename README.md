@@ -17,7 +17,7 @@
       <img align="center" alt="dart" width="auto" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
    
-   
+   <br>
    <h4 align="center"> 📚 Frameworks, Platforms and Libraries</h4>
    <p align="center">
      <img align="center" alt="flutter" width="auto" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -28,7 +28,7 @@
    
   
 </p>
-
+<br>
 <h4 align="center"> 💾 Databases</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -36,13 +36,13 @@
 </p>
    
    
- 
+ <br>
  <h4 align="center"> 🕓 Version Control</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
+<br>
 <h4 align="center">💻 IDEs/Editors</h4>
    <p align="center">
     <img align="center" alt="dreamweaver" width="auto" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />
@@ -52,21 +52,21 @@
 </p>
 
 
- 
+ <br>
 <h4 align="center">Linters</h4>
  <p align="center">
     <img align="center" alt="codemirror" width="auto" src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" />
 </p>
 
 
-
+<br>
 <h4 align="center">Virtualization</h4>
  <p align="center">
     <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 </p>
 
 
-
+<br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
    <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
