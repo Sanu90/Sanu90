@@ -40,8 +40,9 @@
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
      <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-       ![image](https://github.com/Alto-b/Alto-b/assets/89630614/54f87f19-c71a-45a7-83c0-cbe92fd62975)
-
+        <img align="center" alt="mysql" width="auto" src=" ![image](https://github.com/Alto-b/Alto-b/assets/89630614/54f87f19-c71a-45a7-83c0-cbe92fd62975)
+" />
+      
 </p>
    
    
