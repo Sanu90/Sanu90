@@ -90,7 +90,22 @@
 </p>
 
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>\
+
+ <div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=suraj-k-s&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/suraj-k-s)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-k-s&theme=material-palenight)](https://github.com/suraj-k-s)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br/>
 
 
 
