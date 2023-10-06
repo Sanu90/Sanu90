@@ -99,10 +99,7 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/alto-b/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
 <br/>
 
 
