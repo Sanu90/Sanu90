@@ -96,7 +96,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=alto-b&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/suraj-k-s)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-k-s&theme=material-palenight)](https://github.com/suraj-k-s)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alto-b&theme=material-palenight)](https://github.com/suraj-k-s)
 </div>
 
 ----
