@@ -1,4 +1,4 @@
-  <p align="right" style="color:red;"> Profile visits</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
+  <p align="right" style="font-style=orbitron;"> Profile visits</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
     <br>
 
   <div align="center" >
