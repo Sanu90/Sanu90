@@ -2,8 +2,7 @@
     <br>
 
   <div align="center" >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Alto+B+;Flutter+Developer"
-        alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+Alto+b;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
 
   
