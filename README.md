@@ -54,6 +54,8 @@
 <h4 align="center">🖍 Design</h4>
    <p align="center">
    <img align="center" alt="Figma" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+     <img align="center" alt="Dribble" width="auto" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+     <img align="center" alt="Figma" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <br>
