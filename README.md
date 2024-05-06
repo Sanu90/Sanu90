@@ -51,6 +51,12 @@
 </p>
 
 <br>
+<h4 align="center">🖍 Design</h4>
+   <p align="center">
+   <img align="center" alt="Figma" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<br>
 <h4 align="center">💻 IDEs/Editors</h4>
    <p align="center">
     <img align="center" alt="dreamweaver" width="auto" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />
