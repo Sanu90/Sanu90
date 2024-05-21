@@ -47,7 +47,8 @@
  <br>
  <h4 align="center"> 🕓 Version Control</h4>
    <p align="center">
-   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+   <img align="center" alt="GitHub" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+     <img align="center" alt="BitBucket" width="auto" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </p>
 
 <br>
