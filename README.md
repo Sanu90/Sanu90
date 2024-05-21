@@ -8,7 +8,7 @@
   ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b)
 
 <br>
-<img src="https://ivanluna.dev/images/banner.png"><br><br>
+<!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
 <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
  
 <h4 align="center"> 📋 Languages</h4>
