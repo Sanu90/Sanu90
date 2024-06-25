@@ -70,6 +70,12 @@
 
  
  <br>
+ <h4 align="center"> ⏱️ Workflow Platforms </h4>
+   <p align="center">
+   <img align="center" alt="Jira" width="auto" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  
+</p>
+ <br>
 <h4 align="center">Linters</h4>
  <p align="center">
     <img align="center" alt="codemirror" width="auto" src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" />
