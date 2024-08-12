@@ -1,8 +1,8 @@
-  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Justramin/count.svg">
+  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Sanu90/count.svg">
     <br>
 
   <div align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+JUST+IN;MERN+STACK+developer;Freelancer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Iam+Sanup+Divakaran;MERN+STACK+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
 
   ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b) 
@@ -66,13 +66,13 @@
  <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/justin-ram-19209a285/">
-    <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a target="_blank" href="https://www.linkedin.com/in/sanup-divakaran-b471241ab/">
+    <img align="center" alt="LinkedIn" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a target="_blank" href="https://www.instagram.com/____just_in____/">
+   <!-- <a target="_blank" href="https://www.instagram.com/____just_in____/">
   <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
-   <a target="_blank" href="mailto:justramin000@gmail.com">
+   </a> -->
+   <a target="_blank" href="mailto:sanukyr@gmail.com">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </p>
@@ -83,8 +83,8 @@
  <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Justramin&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Justramin) <br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Justramin&theme=material-palenight)](https://github.com/Justramin)
+[![](https://github-readme-stats.vercel.app/api?username=Sanu90&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Sanu90) <br>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Sanu90&theme=material-palenight)](https://github.com/Sanu90)
 </div>
 
 ----
