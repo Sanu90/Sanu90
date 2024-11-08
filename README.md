@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Sanup Divakaran</h1> -->
 <h1 align="center">"Hello world! <span style="color:red"><i>Sanup Divakaran</i></span> here. <br>Welcome to my <code>code</code> playground!!!"</h1>
 <h3 align="center">Tech Enthusiast, SD={Software Developer
-                                        Sanup Divakaran}</h3>
+                                        Sanup Divakaran} </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu90&label=Profile%20views&color=0e75b6&style=flat" alt="sanu90" /> </p>
 
